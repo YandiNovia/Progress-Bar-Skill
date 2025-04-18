@@ -1,0 +1,3 @@
+Mau bikin tampilan portofolio yang estetik dan informatif? Salah satu elemen yang bisa bikin profil kamu makin kece adalah progress bar skill, visualisasi kemampuan kamu di berbagai bidang seperti HTML, CSS, desain grafis, atau pengembangan web. Ini yang saya gunakan di profil (wordpress) dan ini demo di blogspot. Kode ini bisa kamu gunakan di wordpress dan blogspot.
+
+Nah, kali ini kita akan bikin progress bar tanpa JavaScript, cukup dengan HTML dan CSS (inline style). Simpel, ringan, dan tetap stylish! Baca selengkapnya disini https://www.bloggerkalteng.com/2025/04/17/kode-html-progress-bar-skill/
